@@ -77,4 +77,5 @@ Alright, fam, if you're itching to contribute and spice up the breadocalypse, fo
 <br/>
 <br/>
 <br/>
+
 ![fb4c18a5-9367-4770-b99f-7518c72db482 5609c32e87a3110b734aad048bf9fe35-2326121291](https://github.com/KylomaskGamer/Breadocalypse/assets/83834554/2d8c46a9-e3fa-4a9b-a2af-1526eaf0639a)
