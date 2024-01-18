@@ -1,11 +1,27 @@
-# breadocalypse
-Welcome to my game! Well, the source of the game. This is where I can share progress, post backups for in case the project gets corrupted, yata yata yata.
-We also got them discussions!
+# Breadocalypse
+
+Yo, welcome to my game zone! This is the game's HQ, where I spill the tea on progress, stash backups for when the project goes bananas, and all that jazz.
+
+And guess what? We've got some epic discussions going on too!
+
 ## How to play??
-kill bread, upgrade, kill bread, upgrade, kill bosses, upgrade more, cry, and yeah<br/>
-![qwerty-windows-1024x338-660167877](https://github.com/KylomaskGamer/Breadocalypse/assets/83834554/df90bbba-9ef6-40d1-b592-d9878da940e8)
-AD - Move<br/>
-W - Jump<br/>
-JL - Turn Gun<br/>
-K - ***KILL.***
-M - Open/Close shop
+
+It's all about that bread, my friend. Smash it, level up, smash more, face bosses, level up again, shed a tear, and repeat the cycle. Easy peasy, right? :D
+
+![Breadocalypse Preview](https://github.com/KylomaskGamer/Breadocalypse/assets/83834554/df90bbba-9ef6-40d1-b592-d9878da940e8)
+
+Controls are as chill as a breeze:
+
+- AD - Move
+- W - Jump
+- JL - Turn Gun
+- K - ***KILL.*** (Get ready for some serious bread annihilation!)
+- M - Open/Close shop
+
+## How to Contribute?
+
+Alright, fam, if you're itching to contribute and spice up the breadocalypse, follow these steps like a pro:
+
+1. Go to [PenguinMod Studio](https://studio.penguinmod.com/editor.html).
+2. Navigate like a boss: File > Load from your computer.
+3. Cherry-pick that PMP file you're jazzed about, maybe snag one from the backups folder if you're feeling adventurous.
