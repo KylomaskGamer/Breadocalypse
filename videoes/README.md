@@ -7,7 +7,7 @@ The formatting goes as it follows:
 [score]-[month]-[day]-[year].webm
 ```
 Where: 
-- `[score]` is replaced with the FORMATTED score of the run, where the `.` is seperated with a `-` (because filename and extension are split with `.`)
+- `[score]` is replaced with the FORMATTED score of the run, where the `.` is seperated with a `-` (because filename and extension are split with `.`) or a set title such as `showcase` if starting upgrade modification is used (e.g. showcasing a boss or a gimmick)
 - `[month]` is replaced with the month **in a number between 1 and 12**
 - `[day]` is replaced with the day **in a number between 1 and 31** (or higher if it SOMEHOW happens)
 - `[year]` is replaced with the year **in a number between this year and this year**
@@ -18,6 +18,7 @@ Proper filenames:
 - `12-06K_2-7-2024.webm`
 - `9-5K_11-30-2023.webm`
 - `82_4-15-2022.webm`
+- `showcase.webm`
 
 Improper filenames:
 - `38.5-03_6-31-2023.webm` (Score should be formatted without a decimal)
