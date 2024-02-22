@@ -5,5 +5,6 @@ Basically the library for the skins. `default pang.bctm` is used by default.
 1. Create a skin using the Breadocalypse Skin Builder. It should be somehwere in my repos.
 2. Do the fork
 3. Shove in the skin in `.bctm` in the `skins` folder
-4. Do a pull request
-5. Do not add innapropriate skins PLEASE (or your pull request is rejected immediately)
+4. modify `skins.json` and add the filename of your skins so they show up on the skins menu i will make
+5. Do a pull request and wait
+6. Do not add innapropriate skins PLEASE (or your pull request is rejected immediately)
