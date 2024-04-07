@@ -30,3 +30,5 @@ Improper filenames:
 
 > [!NOTE]
 > Names will be cut off when there is a long file name.
+> [!WARNING]  
+> Files not adhering to the file naming format or violating the Code of Conduct will be subject to renaming or removal, depending on KylomaskGamer's decision.
