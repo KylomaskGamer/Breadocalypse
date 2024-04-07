@@ -26,3 +26,6 @@ Improper filenames:
 - `15-04_6-31-2023.webm` (Day exceeds maximum for the month)
 - `6-8_11-15-2025.webm` (Year exceeds current year)
 - `Whopper.png` (worst format + scoreless + terrible score formatting + monthless + dateless + yearless + not a video)
+
+> [!TIP]
+> The `[score]` does not have to be fixed to a set score or `showcase`. You can describe its purpose in one word such as `coolthing` or `geometrydashdashspiderpart` or `idunnodowhatyouwant`
