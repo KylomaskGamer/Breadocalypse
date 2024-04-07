@@ -22,3 +22,6 @@ Improper filenames:
 - `Breadocalypse_11-15-2025.pmp` (Year exceeds current year)
 - `Super_Mario_11-15-2025.pmp` (Incorrect game name)
 - `Whopper.mp4` (worst format + monthless + dayless + yearless + wrong game + wrong filetype)
+
+> [!WARNING]  
+> Files not adhering to the file naming format or violating the Code of Conduct will be subject to renaming or removal, depending on KylomaskGamer's decision.
