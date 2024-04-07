@@ -8,3 +8,22 @@ Basically the library for the skins. `default pang.bctm` is used by default.
 4. modify `skins.json` and add the filename of your skins so they show up on the skins menu i will make
 5. Do a pull request and wait
 6. Do not add innapropriate skins PLEASE (or your pull request is rejected immediately)
+
+## File name formatting
+The formatting goes as it follows:
+```
+[name].bctm
+```
+Where: 
+- `[name]` is replaced with the name of the character
+
+Proper filenames:
+- `default pang.bctm`
+- `sufhyefsheuifhiue.bctm`
+- `euygfduiyehagiehgbfiugherbfiyur.bctm`
+- `uiywegfiyergfuiyegfhuiyerghfiuyeghfuyergfiuyeghfmegnfyegi.bctm`
+- `uygrsufyrregufiyhrguiysguyguyiegfyuregfcxyuegrfyucxuxeuyigcuyecxyercxerucyxrescuxyrecxruyregx.bctm`
+-`totulmsaacsorbasdchstatstruoarebastte,dhrestofhnmoheoltdlenemandteepraemdeesrioarroharhlirtasrltrsenrlapshwnsdwihstrhierheaygaytheerrfswoesrtt,atattihiradotsotustmtloeoil,hnaidotdreubbemeqeopeoeobinuiuhinyavhfoanenreimsetsneeobkrtfseieedaiansnbnereaewsrllsbrsoezssolhhaoolaaentthtthawteeaddaltadisecnertudtheafhsrfswrhytoetvmshnwuitcttreacceuipeonptesfoteoofkttenesekfywhtnfusehnstdobiertnmr.bctm`
+
+Improper filenames:
+- `Whopper.mp4` (B. C. T. M.)
