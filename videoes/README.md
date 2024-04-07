@@ -29,5 +29,6 @@ Improper filenames:
 
 > [!TIP]
 > The `[score]` does not have to be fixed to a set score or `showcase`. You can describe its purpose in one word such as `coolthing` or `geometrydashdashspiderpart` or `idunnodowhatyouwant`
+
 > [!WARNING]  
 > Files not adhering to the file naming format or violating the Code of Conduct will be subject to renaming or removal, depending on KylomaskGamer's decision.
