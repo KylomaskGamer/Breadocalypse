@@ -18,7 +18,7 @@ Proper filenames:
 - `12-06K_2-7-2024.webm`
 - `9-5K_11-30-2023.webm`
 - `82_4-15-2022.webm`
-- `showcase.webm`
+- `showcase-7-9-2021.webm`
 
 Improper filenames:
 - `38.5-03_6-31-2023.webm` (Score should be formatted without a decimal)
@@ -29,3 +29,5 @@ Improper filenames:
 
 > [!TIP]
 > The `[score]` does not have to be fixed to a set score or `showcase`. You can describe its purpose in one word such as `coolthing` or `geometrydashdashspiderpart` or `idunnodowhatyouwant`
+> [!WARNING]  
+> Files not adhering to the file naming format or violating the Code of Conduct will be subject to renaming or removal, depending on KylomaskGamer's decision.
