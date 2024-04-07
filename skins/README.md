@@ -27,3 +27,6 @@ Proper filenames:
 
 Improper filenames:
 - `Whopper.mp4` (B. C. T. M.)
+
+> [!INFO]
+> Names will be cut off when there is a long file name.
