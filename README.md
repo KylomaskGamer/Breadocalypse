@@ -1,4 +1,5 @@
-# Breadocalypse
+# ![THE LOGOOO](https://github.com/KylomaskGamer/Breadocalypse/assets/83834554/6867886d-b2dc-46b2-aa98-2c9487b479d1)
+
 
 Yo, welcome to my game zone! This is the game's HQ, where I spill the tea on progress, stash backups for when the project goes bananas, and all that jazz.
 
